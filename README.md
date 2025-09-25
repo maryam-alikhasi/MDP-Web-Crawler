@@ -44,13 +44,13 @@ It implements **Markov Decision Process (MDP)** algorithms — **Value Iteration
 Run the project with a directory of HTML corpus:
 
 ```bash
-python MDP_Project.py <corpus_directory>
+python Web_Crawler.py <corpus_directory>
 ```
 
 Example:
 
 ```bash
-python MDP_Project.py corpus0
+python Web_Crawler.py corpus0
 ```
 
 ## Learning Outcomes
